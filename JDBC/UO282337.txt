@@ -1,0 +1,9 @@
+Miguel González Navarro
+
+Ejericio 1
+
+Casos de uso:
+-Gestión de contratos
+-Gstión de tipos de contrato
+
+Se dan una serie de warnings (2) debido al cucumber
